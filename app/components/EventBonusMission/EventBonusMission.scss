@@ -1,0 +1,24 @@
+.bonus-body-back {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Pretendard" !important;
+  color: #333;
+  position: relative;
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  .bonus-body {
+    width: 80vw;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+}
+

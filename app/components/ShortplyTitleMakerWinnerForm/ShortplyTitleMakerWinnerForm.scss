@@ -1,0 +1,91 @@
+.shortply-title-maker-winner-list-container {
+  width: 100vw;
+  height: 21vh;
+  position: relative;
+  background-color: #F6F6F6
+}
+
+.shortply-title-maker-winner-list-wrapper {
+  width: 90vw;
+  height: 20vh;
+  margin: 0 auto;
+  position: relative;
+  border-radius: 14px;
+  background-color: #FFF
+}
+
+.shortply-title-maker-winner-list-image-container {
+  display: flex;
+  margin: 0 auto 10vh;
+}
+
+.shortply-title-maker-winner-list-image-wrapper {
+  margin: 5vw 5vw 5vw 5vw;
+  display: flex;
+  gap: 0.8vw;
+  align-items: center;
+}
+
+.shortply-title-maker-winner-list-image {
+  width: 18vw !important;
+  height: 15vh !important;
+}
+
+.shortply-title-maker-winner-list-image-play-icon {
+  position: absolute;
+  width: 10% !important;
+  top: 43%;
+  left: 10%;
+}
+
+.shortply-title-maker-winner-list-image-shadow-dark {
+  width: 0.8vw;
+  height: 13vh;
+  border-radius: 43px;
+  background: #bbb
+}
+
+.shortply-title-maker-winner-list-image-shadow-bright {
+  width: 0.8vw;
+  height: 11vh;
+  border-radius: 43px;
+  background: #d7d7d7
+}
+
+.shortply-title-maker-winner-list-day {
+  width: 40vw;
+  height: 4vh;
+  padding-top: 4vh;
+  position: relative;
+  font-size: 12px;
+  font-weight: 700;
+  margin-top: 1vh;
+  text-align: left;
+  color: #767676;
+  align-content: center
+}
+
+.shortply-title-maker-winner-list-content {
+  width: 40vw;
+  height: 9vh;
+  padding-top: 2vh;
+  position: relative;
+  font-size: 16px;
+  margin-top: 1vh;
+  font-weight: 700;
+  text-align: left;
+  color: #000;
+  line-height: 1.4;
+  word-wrap: break-word;
+}
+
+.shortply-title-maker-winner-list-nickname {
+  width: 50vw;
+  height: 5vh;
+  padding-left: 28vw;
+  position: relative;
+  font-size: 12px;
+  font-weight: 700;
+  text-align: right;
+  color: #a7a7a7
+}

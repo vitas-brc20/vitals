@@ -1,0 +1,43 @@
+.today-back {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Pretendard" !important;
+  color: #333;
+  position: relative;
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  .today-image {
+    position: absolute;
+    width: 35vw;
+    height: auto;
+    top: 52%; /* 원하는 위치로 설정 */
+    left: 22%;
+    transform: translate(-50%, -50%);
+  }
+
+  .today-item-image {
+    position: absolute;
+    width: 25vw;
+    height: auto; /* 비율을 유지하면서 높이 자동 조절 */
+    top: 52%; /* 원하는 위치로 설정 */
+    left: 22%;
+    transform: translate(-50%, -50%);
+  }
+
+  .today-text {
+    position: absolute;
+    width: 50vw;
+    height: auto; /* 비율을 유지하면서 높이 자동 조절 */
+    top: 51%; /* 원하는 위치로 설정 */
+    left: 41%;
+    font-size: 3.6vw;
+    line-height: 1.4; /* 줄간격을 1.5배로 설정 */
+    transform: translate(0%, 0%);
+  }
+}

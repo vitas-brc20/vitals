@@ -1,0 +1,125 @@
+.event-phone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Pretendard" !important;
+  color: #333;
+  position: relative;
+}
+
+.event-phone-input-container {
+  top: 53%;
+  left: 50%;
+
+  width: 50vw;
+  height: 4vh;
+  transform: translate(-50%, -50%);
+
+  position: absolute;
+  font-size: 6vw;
+
+  .event-phone-area {
+    position: absolute;
+    display: flex;
+
+    width: 100%;
+    height: 100%;
+
+    justify-content: center;
+    align-items: center;
+
+    .event-phone-input {
+      position: absolute;
+      display: flex;
+
+      width: 100%;
+      height: 100%;
+
+      font-size: 6vw;
+
+      color: black;
+      background: transparent;
+      caret-color: black;
+      opacity: 0;
+
+      z-index: 1;
+    }
+
+    .event-phone-input-overlay {
+      left: 0px;
+      //position: absolute;
+
+      color: black;
+      pointer-events: none;
+      white-space: pre;
+    }
+  }
+}
+
+.event-phone-checkbox {
+}
+
+
+.event-phone-input-overlay span.caret {
+  display: inline-block;
+  width: 1px;
+  background-color: black;
+  animation: blink 1s step-end infinite;
+  height: 0.8em;
+}
+
+.event-phone-input-overlay .caret.hidden {
+  display: none;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+.event-phone-input-overlay span.entered {
+  color: black;
+}
+
+.event-phone-input-overlay .placeholder {
+  color: lightgray;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center; /* Flex 아이템을 수직 방향으로 중앙 정렬 */
+  position: relative;
+  cursor: pointer;
+  user-select: none;
+}
+
+.checkbox-container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.checkmark {
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 2px;
+  /* 체크박스와 텍스트 라인 높이가 다를 경우 여기서 조정 */
+  margin-top: -2px; /* 체크박스 높이의 반값으로 설정 */
+}
+
+.checkbox-container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}

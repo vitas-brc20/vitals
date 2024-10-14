@@ -1,0 +1,34 @@
+.shortply-title-maker-winner-list-title-container {
+  text-align: left;
+  width: 100vw;
+  height: 5vh;
+  background-color: #F6F6F6;
+}
+
+.shortply-title-maker-winner-list-title-text {
+  font-size: 16px;
+  font-weight: 700;
+  color: #2d3031;
+  margin-left: 5vh
+}
+
+.shortply-winner-paging {
+  display: flex;
+  width: 100%;
+  min-height: 10vh;
+  background-color: #F6F6F6;
+  align-items: center;
+  gap: 10vw;
+}
+
+.shortply-winner-paging-prev {
+  width: 10vw !important;
+  height: 10vw !important;
+  margin: 5vw 5vw 5vw auto;
+}
+
+.shortply-winner-paging-next {
+  width: 10vw !important;
+  height: 10vw !important;
+  margin: 5vw auto 5vw 5vw;
+}

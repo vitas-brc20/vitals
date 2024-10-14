@@ -1,0 +1,123 @@
+
+.shortply-title-maker-winner-background {
+  background-color: #F6F6F6;
+}
+
+.shortply-title-maker-winner {
+  margin: 0 auto;
+  width: 90%;
+  text-align: center;
+}
+
+.shortply-title-maker-winner-title {
+  margin-top: 7vh;
+  margin-bottom: 5vh;
+  position: relative;
+  font-family: "Elice DX Neolli OTF", sans-serif !important;
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: center;
+}
+
+.shortply-title-maker-winner-title-image {
+  width: 55% !important;
+}
+
+.shortply-title-maker-winner-image-container {
+  display: flex;
+  margin: 0 auto 7vh 3vw;
+}
+
+.shortply-title-maker-winner-image-wrapper {
+  margin: 0 auto;
+  display: flex;
+  gap: 1.2vw;
+  align-items: center;
+}
+
+.shortply-title-maker-winner-image {
+  width: 38vw !important;
+  height: 32vh !important;
+}
+
+.shortply-title-maker-winner-image-play-icon {
+  position: absolute;
+  width: 18% !important;
+  left: 39%;
+}
+
+.shortply-title-maker-winner-image-shadow-dark {
+  width: 1.5vw;
+  height: 28vh;
+  border-radius: 43px;
+  background: #bbb
+}
+
+.shortply-title-maker-winner-image-shadow-bright {
+  width: 1.5vw;
+  height: 26vh;
+  border-radius: 43px;
+  background: #d7d7d7
+}
+
+.shortply-title-maker-winner-day-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 10vh;
+}
+
+.shortply-title-maker-winner-day-wrapper {
+  width: 30vw;
+  height: 4vh;
+  position: relative;
+  border-radius: 40px;
+  margin: 0 auto;
+  background: #4A89FF;
+  align-content: center;
+  display: flex;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  align-items: center;
+  -webkit-align-items: center;
+}
+
+.shortply-title-maker-winner-day-text {
+  position: relative;
+  font-size: 14px;
+  font-weight: normal;
+  color: #fff;
+  margin: 0 auto;
+  vertical-align: middle;
+}
+
+.shortply-title-maker-winner-content-container {
+  width: 100vw;
+  height: 15vh;
+  border-radius: 14px;
+  background: #fff;
+  border: 1.5px solid #4A89FF;
+  margin-top: -2vh
+}
+
+.shortply-title-maker-winner-content-text {
+  width: 62vw;
+  height: fit-content;
+  position: relative;
+  font-size: 17px;
+  font-weight: 700;
+  text-align: center;
+  margin: -11vh auto 5vw;
+  line-height: 1.4;
+  color: #000
+}
+
+.shortply-title-maker-winner-content-nickname {
+  width: 62vw;
+  position: relative;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 0.5vh;
+  color: #a7a7a7
+}

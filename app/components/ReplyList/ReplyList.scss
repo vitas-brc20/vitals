@@ -1,0 +1,22 @@
+.shortply-reply-paging {
+  display: flex;
+  width: 100%;
+  min-height: 10vh;
+  border-top: 0.5px groove;
+  background-color: white;
+  align-items: center;
+  gap: 10vw;
+  margin-bottom: 3vh;
+}
+
+.shortply-reply-paging-prev {
+  width: 10vw !important;
+  height: 10vw !important;
+  margin: 5vw 5vw 5vw auto;
+}
+
+.shortply-reply-paging-next {
+  width: 10vw !important;
+  height: 10vw !important;
+  margin: 5vw auto 5vw 5vw;
+}

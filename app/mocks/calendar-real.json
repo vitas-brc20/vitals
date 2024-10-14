@@ -1,0 +1,250 @@
+[
+  {
+    "eventDay": "2024-08-31",
+    "missionType": "CREATE_TODAY_SHORTPLY_WITH_MY_FEED",
+    "itemName": "롯데 상품권 10만원",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/lotte-100000.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/lotte-100000.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-01",
+    "missionType": "CREATE_TODAY_SHORTPLY",
+    "itemName": "배달의민족 상품권 5천원",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/baemin.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/baemin-5000.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-02",
+    "missionType": "CREATE_TODAY_SHORTPLY_USE_SEARCH",
+    "itemName": "케이미트 이베리코 세트",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/kmeat.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/kmeat-iberico.png",
+    "resultType": "PARTICIPATION"
+  },
+  {
+    "eventDay": "2024-09-03",
+    "missionType": "REPLY_5",
+    "itemName": "CU 모바일상품권 5천원",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/cu.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/cu-5000.png",
+    "resultType": "PARTICIPATION"
+  },
+  {
+    "eventDay": "2024-09-04",
+    "missionType": "CELPICK_VOTE_COMPLETE",
+    "itemName": "케이미트 VIP갈비구이세트",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/kmeat.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/kmeat-galbi.png",
+    "resultType": "PARTICIPATION"
+  },
+  {
+    "eventDay": "2024-09-05",
+    "missionType": "CREATE_TODAY_SHORTPLY",
+    "itemName": "세븐일레븐 모바일상품권 5천원",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/7eleven.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/7eleven-5000.png",
+    "resultType": "PARTICIPATION"
+  },
+  {
+    "eventDay": "2024-09-06",
+    "missionType": "CREATE_TODAY_SHORTPLY",
+    "itemName": "GS25 모바일상품권 1만원",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/gs25.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/gs25-10000.png",
+    "resultType": "PARTICIPATION"
+  },
+  {
+    "eventDay": "2024-09-07",
+    "missionType": "ATTENDANCE_BONUS",
+    "itemName": "셀러비 포인트",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/bonus-09.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/bonus.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-08",
+    "missionType": "ATTENDANCE_BONUS",
+    "itemName": "셀러비 포인트",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/bonus-09.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/bonus.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-09",
+    "missionType": "CREATE_TODAY_SHORTPLY",
+    "itemName": "던킨 도너츠 6개팩",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/dunkin.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/dunkin.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-10",
+    "missionType": "CELPICK_VOTE_COMPLETE",
+    "itemName": "맥도날드 모바일금액권 1만원권",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/mcdonald.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/mcdonald-10000.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-11",
+    "missionType": "CREATE_TODAY_SHORTPLY",
+    "itemName": "파리바게트 교환권 1만원권",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/parisbaguette.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/parisbaguette-10000.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-12",
+    "missionType": "REPLY_5",
+    "itemName": "배달의민족 상품권 2만원권",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/baemin.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/baemin-20000.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-13",
+    "missionType": "CELPICK_VOTE_COMPLETE",
+    "itemName": "BBQ 황금올리브 치킨",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/bbq.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/bbq.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-14",
+    "missionType": "ATTENDANCE_BONUS",
+    "itemName": "셀러비 포인트",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/bonus-09.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/bonus.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-15",
+    "missionType": "ATTENDANCE_BONUS",
+    "itemName": "셀러비 포인트",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/bonus-09.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/bonus.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-16",
+    "missionType": "CELPICK_VOTE_COMPLETE",
+    "itemName": "CJ 스팸 클래식 8호 명절 선물세트",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/spam.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/spam.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-17",
+    "missionType": "CREATE_TODAY_SHORTPLY_USE_SEARCH",
+    "itemName": "스타벅스 드립백 추석 선물세트",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/starbucks.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/starbucks.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-18",
+    "missionType": "CREATE_TODAY_SHORTPLY",
+    "itemName": "동원 튜나 리챔 선물세트",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/dongwon.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/dongwon.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-19",
+    "missionType": "REPLY_5",
+    "itemName": "네이버페이 포인트 1만원",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/naverpay.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/naverpay-10000.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-20",
+    "missionType": "CELPICK_VOTE_COMPLETE",
+    "itemName": "CU 모바일상품권 1만원권",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/cu.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/cu-10000.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-21",
+    "missionType": "ATTENDANCE_BONUS",
+    "itemName": "셀러비 포인트",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/bonus-09.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/bonus.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-22",
+    "missionType": "ATTENDANCE_BONUS",
+    "itemName": "셀러비 포인트",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/bonus-09.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/bonus.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-23",
+    "missionType": "CELPICK_VOTE_COMPLETE",
+    "itemName": "네이버페이 포인트 2만원",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/naverpay.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/naverpay-20000.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-24",
+    "missionType": "CREATE_TODAY_SHORTPLY",
+    "itemName": "배스킨라빈스 싱글레귤러 아이스크림",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/baskinrobbins.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/baskinrobbins.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-25",
+    "missionType": "REPLY_5",
+    "itemName": "롯데시네마 1인 영화권",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/lottecinema.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/lottecinema.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-26",
+    "missionType": "CREATE_TODAY_SHORTPLY",
+    "itemName": "GS25 모바일상품권 5천원",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/gs25.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/gs25-5000.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-27",
+    "missionType": "CELPICK_VOTE_COMPLETE",
+    "itemName": "신세계 백화점 상품권 3만원권",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/shinsegae.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/shinsegae-30000.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-28",
+    "missionType": "ATTENDANCE_BONUS",
+    "itemName": "셀러비 포인트",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/bonus-09.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/bonus.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-29",
+    "missionType": "ATTENDANCE_BONUS",
+    "itemName": "셀러비 포인트",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/bonus-09.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/bonus.png",
+    "resultType": "NOT_YET"
+  },
+  {
+    "eventDay": "2024-09-30",
+    "missionType": "CREATE_TODAY_SHORTPLY",
+    "itemName": "네이버페이 포인트 10만원",
+    "thumbnailUrl": "/public/static/kr-event/2409/thumbnail-images/naverpay.png",
+    "itemImageUrl": "/public/static/kr-event/2409/item-images/naverpay-100000.png",
+    "resultType": "NOT_YET"
+  }
+]
